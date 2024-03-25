@@ -11,7 +11,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Github Profile Page                         | https://github.com/ytouati5/ytouati5                                   |
 | 1    | Commit and Push Change from Command Line    | https://github.com/ytouati5/ppchem/commits/main/caffeine.png               |
 | 1    | Create a New Branch                         | https://github.com/ytouati5/ppchem/blob/new-branch-name/README.md          |
-| 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |
+| 1    | Create a conda environment                  | https://github.com/ytouati5/ppchem/blob/main/env.yml     |
 | 1    | Fork a Repo                                 | https://github.com/ytouati5/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
